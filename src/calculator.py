@@ -39,7 +39,7 @@ class Calculator:
 
     def multiply (self, b: Number) -> Number:
         """ Takes in a number n and multiply n by the number in memory.
-        :param a: any number of type int or float
+        :param b: any number of type int or float
         :return : returns the result of the value entered in b"""
         self.__evaluate_input(b)
         self.__memory *= b
@@ -47,7 +47,7 @@ class Calculator:
 
     def divide (self, b: Number) -> Number:
         """ Takes in a number n and divide n by the number in memory.
-        :param a: any number of type int or float
+        :param b: any number of type int or float
         :return : returns the result of the value entered in b"""
         self.__evaluate_input(b)
         try:
