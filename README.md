@@ -8,7 +8,9 @@ Program contains a simple calculator class that helps us perform basic calculati
 Technologies used
 Python
 Pytest
+
 How to use it with Google Colab?
+
 Fetch the module: pip install git+https://github.com/clappy203/Calculator
 
 Install Pytest with: !pip install pytest ipython_pytest,
