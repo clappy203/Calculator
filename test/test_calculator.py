@@ -35,3 +35,5 @@ def test_reset():
     cal = Calculator() 
     cal.add(5)
     assert cal.reset() == 0  
+    
+        Link to notebook to view test: https://github.com/TuringCollegeSubmissions/comaku-DS.2.1/blob/master/215.ipynb
